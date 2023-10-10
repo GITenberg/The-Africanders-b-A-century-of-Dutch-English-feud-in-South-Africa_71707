@@ -1,11 +1,16 @@
 _repo: The-Africanders-b-A-century-of-Dutch-English-feud-in-South-Africa_71707
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71707-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Hooker, le Roy
     gutenberg_agent_id: '56342'
     url: http://www.gutenberg.org/2009/agents/56342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71707#The-Africanders-b-A-century-of-Dutch-English-feud-in-South-Africa
 gutenberg_issued: '2023-09-23'
 identifiers:
   gutenberg: '71707'
